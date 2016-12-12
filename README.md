@@ -11,7 +11,7 @@ Pokedex React app using and teaching Apollo and GraphQL
 If you haven't done it already, checkout the [hands-on Learn Apollo tutorial](https://learnapollo.org/) to download your individual version of this application.
 
 ```sh
-cd exercise-01
+cd playground
 yarn install
 yarn start # open localhost:3000
 ```
