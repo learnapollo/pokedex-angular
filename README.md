@@ -1,6 +1,6 @@
 # pokedex-angular
 
-Pokedex React app using and teaching Apollo and GraphQL
+Pokedex Angular app using and teaching Apollo and GraphQL
 
 > **Live Demo: [http://demo.learnapollo.com](http://demo.learnapollo.com/)**
 
