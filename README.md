@@ -8,7 +8,7 @@ Pokedex Angular app using and teaching Apollo and GraphQL
 
 ## Getting started
 
-If you haven't done it already, checkout the [hands-on Learn Apollo tutorial](https://learnapollo.org/) to download your individual version of this application.
+If you haven't done it already, checkout the [hands-on Learn Apollo tutorial](https://learnapollo.com/) to download your individual version of this application.
 
 ```sh
 cd playground
